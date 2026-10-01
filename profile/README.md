@@ -47,6 +47,7 @@ pnpm create reyhan my-store
 | Repository | Description | Status |
 | :--- | :--- | :--- |
 | [**reyhan-commerce/reyhan**](https://github.com/reyhan-commerce/reyhan) | The flagship monorepo: Core engine, Nuxt 4 layer, CLI orchestrator | 🚀 Active |
+| [**reyhan-commerce/docs**](https://github.com/reyhan-commerce/docs) | Official documentation website (VitePress & GitHub Pages) | 📚 Live |
 | [**reyhan-commerce/create-reyhan**](https://github.com/reyhan-commerce/create-reyhan) | Interactive TUI scaffolder & CLI installer (NPX) | 📦 Published |
 
 ---
