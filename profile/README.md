@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🌿 Reyhan Commerce
+<img src="images/banner.png" alt="Reyhan Commerce Framework" width="850" style="max-width: 100%; border-radius: 14px; margin-bottom: 24px;" />
+
+# Reyhan Commerce
 
 ### Sovereign Enterprise Headless E-Commerce Backend Framework
 **Engineered for Laravel 13 with 100% Strict Typing, Action-Driven Architecture, High Concurrency & Double-Entry Financial Precision**
