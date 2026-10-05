@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Official Documentation
+    url: https://reyhan-commerce.github.io/docs/
+    about: Read the official guides, architecture blueprints, and API reference.
+  - name: 💬 GitHub Discussions
+    url: https://github.com/orgs/reyhan-commerce/discussions
+    about: Ask questions, share ideas, and discuss with the community.
